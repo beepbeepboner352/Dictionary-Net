@@ -207,4 +207,4 @@ Dictionary .NET is offered as a full free version with all features and updates 
 Unlock your potential with Dictionary .NET today! Download now and start translating with ease!
 
 ---
-**Last updated:** 2026-09-17 13:58:57 UTC
+**Last updated:** 2026-09-17 17:59:33 UTC
